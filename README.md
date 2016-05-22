@@ -1,2 +1,2 @@
 # SandBoxCDMA
-Web-based database tool
+Web-based database tool for CDMA stores.
